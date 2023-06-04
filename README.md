@@ -1,3 +1,4 @@
+Scroll down to the releases page for downloads.
 ![Project icon](https://raw.githubusercontent.com/Earthcomputer/multiconnect/master/src/main/resources/assets/multiconnect/icon.png)
 
 # multiconnect
